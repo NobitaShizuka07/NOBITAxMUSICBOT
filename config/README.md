@@ -1,4 +1,4 @@
-## Yukki Music Bot Configs
+## Nobita Music Bot Configs
 
 - `Required` : If true it is a mandatory var, you can't leave it blank
 - `Value Type` : Value type of the config var. Example: If integer , you'll need to input number[1-9] only.
@@ -88,7 +88,7 @@
 
 
 # Images/Thumbnail Vars
-- You can change images which are used in Yukki Music Bot.
+- You can change images which are used in Nobita Music Bot.
 
 - You can generate telegaph links from [@YukkiTelegraphBot](http://t.me/YukkiTelegraphBot) and use it here.
 
